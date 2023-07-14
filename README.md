@@ -11,5 +11,5 @@ Projeto desenvolvido para realização de cadastros de contatos e uma apresenta�
 
 ## Funcionalidades 
 
-Cadastro,listagem, atualização e remoção de contatos.
-Apresentação e infomação do horário atual para o usuário.
+- Cadastro,listagem, atualização e remoção de contatos.
+- Apresentação e infomação do horário atual para o usuário.
